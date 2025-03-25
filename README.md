@@ -10,5 +10,5 @@ Contents
 
 This notebook is useful for data preprocessing in NLP tasks such as Spam filtering, Search engines (improving relevance), Sentiment analysis (analyzing user opinions)
 
-Contributing
+
 Feel free to fork this repository and submit pull requests to improve the content!
